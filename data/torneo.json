@@ -1,0 +1,15 @@
+{
+    "carpetas": {
+        "RONDA 1": [
+            {
+                "local": "Alemania",
+                "visita": "Ecuador",
+                "marcador": [
+                    0,
+                    0
+                ],
+                "jugado": false
+            }
+        ]
+    }
+}

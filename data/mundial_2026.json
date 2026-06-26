@@ -1,0 +1,21 @@
+{
+    "nombre_torneo": "Mundial 2026",
+    "participantes": [
+        "Gael",
+        "Chicho",
+        "Ivan",
+        "Rene"
+    ],
+    "partidos": [
+        {
+            "id": 1,
+            "local": "Alemania",
+            "visita": "Francia",
+            "marcador_real": [
+                0,
+                0
+            ],
+            "jugado": false
+        }
+    ]
+}
